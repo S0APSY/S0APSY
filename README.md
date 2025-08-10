@@ -1,6 +1,5 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/38/cf/39/38cf393ce1006d1ab85030afdeff610a.jpg" alt="Logo" width="500"/>
+  <img src="https://i.pinimg.com/originals/da/5a/a7/da5aa70e627316606ead30740e28d884.gif" alt="Logo" width="500"/>
   <br>
-  ao3.
 </p>
