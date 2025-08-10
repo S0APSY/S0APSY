@@ -1,5 +1,5 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/da/5a/a7/da5aa70e627316606ead30740e28d884.gif" alt="Logo" width="500"/>
+  <img src="https://i.pinimg.com/1200x/8a/e4/08/8ae4081ad9b15d879ddecc7d27340793.jpg" alt="Logo" width="500"/>
   <br>
 </p>
