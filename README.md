@@ -1,9 +1,14 @@
+
 <p align="center" width="100%">
     <img width="33%" src="https://files.catbox.moe/dbr5uo.png">
 </p>
 
 <p align="center">
-  CLICK 2 SEE SOCIALS !
+  𐔌   .  ˚ did i tell u that i miss u ֹ  ₊ ꒱
+</p>
+
+<p align="center">
+  ⌞CLICK 4 SOCIALS⌝
 </p>
 
 <p align="center">
