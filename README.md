@@ -7,21 +7,21 @@
 </p>
 
 <p align="center">
-  <a href="https://example.com/one">
+  <a href="https://kkkawaiirazor.straw.page">
     <img src="https://64.media.tumblr.com/tumblr_m8fnk1jW331r7nk4k.gif" alt="strawpage" width="50">
   </a>
     &nbsp;&nbsp;
     &nbsp;&nbsp;
     &nbsp;&nbsp;
     &nbsp;&nbsp;
-  <a href="https://example.com/two">
+  <a href="https://pronouns.cc/@kkawaiirazorblades">
     <img src="https://64.media.tumblr.com/tumblr_m8fnk1jW331r7nk4k.gif" alt="pronouns" width="50">
   </a>
     &nbsp;&nbsp;
     &nbsp;&nbsp;
     &nbsp;&nbsp;
     &nbsp;&nbsp;
-  <a href="https://example.com/three">
+  <a href="https://kwairzrbldz.atabook.org">
     <img src="https://64.media.tumblr.com/tumblr_m8fnk1jW331r7nk4k.gif" alt="atabook" width="50">
   </a>
 </p>
