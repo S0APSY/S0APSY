@@ -31,6 +31,16 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12ckph3ot59wwg34vopzfclra&cover_image=true&theme=natemoo-re&show_offline=false&background_color=f7abcc&interchange=false&bar_color=f0a8c7&bar_color_cover=false" alt="spotify-github-profile">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=ffa6ce&label=meu+deus" alt="Profile Views"/>
+</p>
+
 <p align="center" width="100%">
     <img width="33%" src="https://files.catbox.moe/dbr5uo.png">
 </p>
