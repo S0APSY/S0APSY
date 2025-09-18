@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=6d45ad&label=hio+guys" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=6d45ad&label=burro+do+krlh" alt="Profile Views"/>
 </p>
 
 <p align="center" width="100%">
