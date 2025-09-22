@@ -1,6 +1,6 @@
 
 <p align="center" width="100%">
-    <img width="33%" src="https://64.media.tumblr.com/a5da85750e1dde069aff44f2202bc686/aaccb3271efb5e03-87/s2048x3072/530388dedb12891853d46da67af2ffaf38cbdb32.pnj">
+    <img width="33%" src="https://64.media.tumblr.com/db6f54185bc08a268b0df5f760ece6db/66315001443da923-1a/s640x960/6fc4b291ccb8ecb60a7a4b7065ee7d0e4718ca42.gifv" width="50">
 </p>
 
 <p align="center">
@@ -13,34 +13,34 @@
 
 <p align="center">
   <a href="https://kkkawaiirazor.straw.page">
-    <img src="https://i.imgur.com/Dq2UARX.gif" alt="strawpage" width="50">
+    <img src="https://64.media.tumblr.com/0e84061b9438cc96f0da4a20b0bf64ec/45df70cb40fc600d-e3/s75x75_c1/4dec4e8d1f6b001bd574910cf3866b492fd98436.gifv" alt="strawpage" width="50">
   </a>
     &nbsp;&nbsp;
     &nbsp;&nbsp;
     &nbsp;&nbsp;
     &nbsp;&nbsp;
   <a href="https://pronouns.cc/@kkawaiirazorblades">
-    <img src="https://i.imgur.com/Dq2UARX.gif" alt="pronouns" width="50">
+    <img src="https://64.media.tumblr.com/0e84061b9438cc96f0da4a20b0bf64ec/45df70cb40fc600d-e3/s75x75_c1/4dec4e8d1f6b001bd574910cf3866b492fd98436.gifv" alt="pronouns" width="50">
   </a>
     &nbsp;&nbsp;
     &nbsp;&nbsp;
     &nbsp;&nbsp;
     &nbsp;&nbsp;
   <a href="https://kwairzrbldz.atabook.org">
-    <img src="https://i.imgur.com/Dq2UARX.gif" alt="atabook" width="50">
+    <img src="https://64.media.tumblr.com/0e84061b9438cc96f0da4a20b0bf64ec/45df70cb40fc600d-e3/s75x75_c1/4dec4e8d1f6b001bd574910cf3866b492fd98436.gifv" alt="atabook" width="50">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12ckph3ot59wwg34vopzfclra&cover_image=true&theme=natemoo-re&show_offline=false&background_color=f7abcc&interchange=false&bar_color=6d45ad&bar_color_cover=false" alt="spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12ckph3ot59wwg34vopzfclra&cover_image=true&theme=natemoo-re&show_offline=false&background_color=f7abcc&interchange=false&bar_color=fc0377&bar_color_cover=false" alt="spotify-github-profile">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=6d45ad&label=burros+do+krlh" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=fc0377&label=3P1K+P3OPL3" alt="Profile Views"/>
 </p>
 
 <p align="center" width="100%">
-    <img width="33%" src="https://64.media.tumblr.com/a5da85750e1dde069aff44f2202bc686/aaccb3271efb5e03-87/s2048x3072/530388dedb12891853d46da67af2ffaf38cbdb32.pnj">
+    <img width="33%" src="https://64.media.tumblr.com/db6f54185bc08a268b0df5f760ece6db/66315001443da923-1a/s640x960/6fc4b291ccb8ecb60a7a4b7065ee7d0e4718ca42.gifv">
 </p>
