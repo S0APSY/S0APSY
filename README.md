@@ -12,22 +12,12 @@
 </p>
 
 <p align="center">
-  <a href="https://kkkawaiirazor.straw.page">
-    <img src="https://64.media.tumblr.com/ae4a570f5736202a9dfe01624f2393c0/7bf1827d7384b6f5-1b/s250x400/334395cfb7389845726cab4d328aabfbe6d89dd1.pnj" alt="strawpage" width="90">
-  </a>
-    &nbsp;&nbsp;
-    &nbsp;&nbsp;
-    &nbsp;&nbsp;
-    &nbsp;&nbsp;
   <a href="https://pronouns.cc/@kkawaiirazorblades">
     <img src="https://64.media.tumblr.com/ae4a570f5736202a9dfe01624f2393c0/7bf1827d7384b6f5-1b/s250x400/334395cfb7389845726cab4d328aabfbe6d89dd1.pnj" alt="pronouns" width="90">
   </a>
-    &nbsp;&nbsp;
-    &nbsp;&nbsp;
-    &nbsp;&nbsp;
-    &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://kwairzrbldz.atabook.org">
-    <img src="https://64.media.tumblr.com/ae4a570f5736202a9dfe01624f2393c0/7bf1827d7384b6f5-1b/s250x400/334395cfb7389845726cab4d328aabfbe6d89dd1.pnj" alt="atabook" width="90">
+    <img src="https://64.media.tumblr.com/ae4a570f5736202a9dfe01624f2393c0/7bf1827d7384b6f5-1b/s250x400/334395cfb7389845726cab4d328aabfbe6d89dd1.pnj"" alt="atabook" width="90">
   </a>
 </p>
 
