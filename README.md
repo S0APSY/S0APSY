@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  𐔌   .  ˚ WHY IS EVERYBODY ALWAYS PICKIN' ON ME!? ֹ  ₊ ꒱
+  𐔌   .  ˚ in half broken japanese i wrote to you. ֹ  ₊ ꒱
 </p>
 
 <p align="center">
