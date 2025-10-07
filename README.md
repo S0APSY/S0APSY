@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  𐔌   .  ˚ in half broken japanese i wrote to you. ֹ  ₊ ꒱
+  𐔌   .  ˚ muscle of fun! :P Inside my mouth! xD ֹ  ₊ ꒱
 </p>
 
 <p align="center">
