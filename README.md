@@ -25,7 +25,6 @@
     <img src="https://i.imgur.com/8RKIRcX.gif" alt="atabook" width="60">
   </a>
 
-
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12ckph3ot59wwg34vopzfclra&cover_image=true&theme=natemoo-re&show_offline=false&background_color=f7abcc&interchange=false&bar_color=e69ab7&bar_color_cover=false" alt="spotify-github-profile">
@@ -35,6 +34,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&color=de5d8e&label=hi" alt="Profile Views"/>
 </p>
+
+<p align="center">
+  ⌞ask 4 discord⌝
+</p>
+ <p align="center">
 
 <p align="center" width="100%">
     <img width="33%" src="https://dividers.crd.co/assets/images/gallery02/24176d6b.gif?v=05d33f91">
