@@ -1,6 +1,6 @@
 
 <p align="center" width="100%">
-    <img width="33%" src="https://dividers.crd.co/assets/images/gallery02/e036df7e.gif?v=05d33f91" width="50">
+    <img width="33%" src="https://files.catbox.moe/rs2vdn.png" width="50">
 </p>
 
 <p align="center">
@@ -14,15 +14,15 @@
  
  <p align="center">
   <a href="https://pronouns.cc/@kkawaiirazorblades">
-    <img src="https://i.imgur.com/8RKIRcX.gif" alt="pronouns" width="60">
+    <img src="https://i.imgur.com/CcD8ks3.gif" alt="pronouns" width="60">
   </a>
   &nbsp;&nbsp;
   <a href="YOUR-LINK-HERE">
-    <img src="https://i.imgur.com/9d5sSS3.gif" alt="new image" width="40">
+    <img src="https://i.imgur.com/0BKGqJC.gif" alt="new image" width="40">
   </a>
   &nbsp;&nbsp;
     <a href="https://kwairzrbldz.atabook.org">
-    <img src="https://i.imgur.com/8RKIRcX.gif" alt="atabook" width="60">
+    <img src="https://i.imgur.com/CcD8ks3.gif" alt="atabook" width="60">
   </a>
 
 <p align="center">
@@ -41,5 +41,5 @@
  <p align="center">
 
 <p align="center" width="100%">
-    <img width="33%" src="https://dividers.crd.co/assets/images/gallery02/24176d6b.gif?v=05d33f91">
+    <img width="33%" src="https://files.catbox.moe/s0rruf.png">
 </p>
