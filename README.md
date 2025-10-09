@@ -17,7 +17,7 @@
     <img src="https://i.imgur.com/CcD8ks3.gif" alt="pronouns" width="60">
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR-LINK-HERE">
+  <a href="https://kkwaii.straw.page">
     <img src="https://64.media.tumblr.com/c8e8255266563289203e1d34088e5010/7920890ab1441ae3-2f/s100x200/dfa11dd94c0771df53997323d2da135781818766.gifv" alt="new image" width="90">
   </a>
   &nbsp;&nbsp;
