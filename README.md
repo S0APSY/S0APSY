@@ -18,7 +18,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://kkwaii.straw.page">
-    <img src="https://64.media.tumblr.com/1faa16805272b4468832739548597f76/10ee4c40b4d26726-d8/s250x400/a7062a70e136e26f12d9bac668ea711fc7227f77.gifv" alt="new image" width="100">
+    <img src="https://64.media.tumblr.com/905e0f5e0c141f9af49eed2664fbd0ed/7bf1827d7384b6f5-9c/s250x400/4ec8859633418050486457694e0b1f4f8fccee5b.pnj" alt="new image" width="100">
   </a>
   &nbsp;&nbsp;
     <a href="https://kwairzrbldz.atabook.org">
