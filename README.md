@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  𐔌   .  ˚ muscle of fun! :P Inside my mouth! xD ֹ  ₊ ꒱
+  𐔌   .  ˚ SEUS BURRO DO CARALHO?!?! ֹ  ₊ ꒱
 </p>
 
 <p align="center">
