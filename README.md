@@ -21,7 +21,7 @@
     <img src="https://64.media.tumblr.com/905e0f5e0c141f9af49eed2664fbd0ed/7bf1827d7384b6f5-9c/s250x400/4ec8859633418050486457694e0b1f4f8fccee5b.pnj" alt="new image" width="100">
   </a>
   &nbsp;&nbsp;
-    <a href="https://kwairzrbldz.atabook.org">
+    <a href="https://s0apsy.atabook.org">
     <img src="https://i.imgur.com/5MsPHL8.gif" alt="atabook" width="60">
   </a>
 
