@@ -18,7 +18,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://sosoapsy.straw.page">
-    <img src="https://64.media.tumblr.com/6b2fe7165009f4bfbccb7a38e2d489cd/1b769f25d08476ed-22/s100x200/5b862e402068b208ba33f2b3f5d496f0e5c516de.pnj" alt="new image" width="100">
+    <img src="https://64.media.tumblr.com/5d1f34ddeb66789e54306c948e95a8ee/8f3b966c768a7a38-e5/s100x200/4c93ae58a12d5237be8b5981b452ec4db6c8f371.gifv" alt="new image" width="100">
   </a>
   &nbsp;&nbsp;
     <a href="https://s0apsy.atabook.org">
