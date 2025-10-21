@@ -13,7 +13,7 @@
  <p align="center">
  
  <p align="center">
-  <a href="https://pronouns.cc/@kkawaiirazorblades">
+  <a href="https://pronouns.cc/@s0apsy">
     <img src="https://i.imgur.com/5MsPHL8.gif" alt="pronouns" width="60">
   </a>
   &nbsp;&nbsp;
